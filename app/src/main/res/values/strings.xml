@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CET3013_Assignment1_CalculatorApp</string>
+
+    <string name="expression"></string>
+    <string name="result"></string>
+    <string name="ClearButton">C</string>
+    <string name="BackspaceButton">DEL</string>
+    <string name="positive_negative_Button">+/-</string>
+    <string name="divideButton">/</string>
+    <string name="multiplyButton">x</string>
+    <string name="minusButton">-</string>
+    <string name="plusButton">+</string>
+    <string name="equalButton">=</string>
+    <string name="decimalButton">.</string>
+    <string name="Button0">0</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+</resources>
